@@ -1,0 +1,3139 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: Retrieval_Objects
+SessionDate: 00-00-0000
+SessionTime: 16:02:00
+SessionStartDateTimeUtc: 00/00/0000 0:00:00 PM
+RuntimeVersion: 2.0.10.182
+Subject: 1154932
+Session: PREBL00
+DataFile.Basename: Encoding_Objects-1154932-PREBL00
+RandomSeed: -1555429020
+Group: 1
+Display.RefreshRate: 59.872
+*** Header End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 17
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_daffodil_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 1
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 39
+	RecognitionSlide.OnsetTime: 132375
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 136374
+	RecognitionSlide.FinishTime: 136374
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 0
+	RecognitionSlide.ACC: 1
+	RecognitionSlide.RT: 0
+	RecognitionSlide.RESP: 
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 136384
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 138583
+	RetrievalITI.FinishTime: 138583
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 136862
+	RetrievalITI.RT: 478
+	RetrievalITI.RESP: 3
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 8
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_trumpet_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 2
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 138605
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 142604
+	RecognitionSlide.FinishTime: 142604
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 140604
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1999
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 142614
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 151413
+	RetrievalITI.FinishTime: 151413
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 30
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_gluegun_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 3
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 36
+	RecognitionSlide.OnsetTime: 151450
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 155449
+	RecognitionSlide.FinishTime: 155449
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 152404
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 954
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 155458
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 164257
+	RetrievalITI.FinishTime: 164257
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 33
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_mandarin_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 4
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 164277
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 168276
+	RecognitionSlide.FinishTime: 168276
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 165487
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1210
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 168286
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 170485
+	RetrievalITI.FinishTime: 170485
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 56
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_triangle_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 5
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 38
+	RecognitionSlide.OnsetTime: 170524
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 174523
+	RecognitionSlide.FinishTime: 174523
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 172191
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1667
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 174532
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 183331
+	RetrievalITI.FinishTime: 183331
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 89
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_dishwashingliquid_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 6
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 36
+	RecognitionSlide.OnsetTime: 183368
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 187367
+	RecognitionSlide.FinishTime: 187367
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 184626
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1258
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 187377
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 189576
+	RetrievalITI.FinishTime: 189576
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 72
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_blackclamp_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 7
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 189598
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 193597
+	RecognitionSlide.FinishTime: 193597
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 190864
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1266
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 193607
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 198006
+	RetrievalITI.FinishTime: 198006
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 25
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_yellowtropical_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 8
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 198033
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 202032
+	RecognitionSlide.FinishTime: 202032
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 199274
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1241
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 202041
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 206440
+	RetrievalITI.FinishTime: 206440
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 52
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_cello_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 9
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 206467
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 210466
+	RecognitionSlide.FinishTime: 210466
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 207756
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1289
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 210476
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 219275
+	RetrievalITI.FinishTime: 219275
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 35
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_purpleplum_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 10
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 219295
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 223294
+	RecognitionSlide.FinishTime: 223294
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 220730
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1435
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 223304
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 227703
+	RetrievalITI.FinishTime: 227703
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 73
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_yellowsunflower_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 11
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 227730
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 231729
+	RecognitionSlide.FinishTime: 231729
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 229678
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1948
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 231738
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 236137
+	RetrievalITI.FinishTime: 236137
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 67
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_pinkorchidea_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 12
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 236164
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 240163
+	RecognitionSlide.FinishTime: 240163
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 237642
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1478
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 240173
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 244572
+	RetrievalITI.FinishTime: 244572
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 66
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_footballhelmet_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 13
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 244599
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 248598
+	RecognitionSlide.FinishTime: 248598
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 245830
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1231
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 248608
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 253007
+	RetrievalITI.FinishTime: 253007
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 31
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_grannysmithapple_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 14
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 253034
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 257033
+	RecognitionSlide.FinishTime: 257033
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 255254
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2220
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 257042
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 265841
+	RetrievalITI.FinishTime: 265841
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 53
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_caribou_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 15
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 265861
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 269860
+	RecognitionSlide.FinishTime: 269860
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 267228
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1367
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 269870
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 274269
+	RetrievalITI.FinishTime: 274269
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 3
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_bison_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 16
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 274296
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 278295
+	RecognitionSlide.FinishTime: 278295
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 275361
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1065
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 278305
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 282704
+	RetrievalITI.FinishTime: 282704
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 37
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_redpear_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 17
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 282731
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 286730
+	RecognitionSlide.FinishTime: 286730
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 284351
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1620
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 286739
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 291138
+	RetrievalITI.FinishTime: 291138
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 94
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_sweetpotato_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 18
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 291165
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 295164
+	RecognitionSlide.FinishTime: 295164
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 292478
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1313
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 295174
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 303973
+	RetrievalITI.FinishTime: 303973
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 29
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_cranberry_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 19
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 303993
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 307992
+	RecognitionSlide.FinishTime: 307992
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 305562
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1569
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 308001
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 310200
+	RetrievalITI.FinishTime: 310200
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 85
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_rasberry_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 20
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 310223
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 314222
+	RecognitionSlide.FinishTime: 314222
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 311346
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1123
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 314232
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 318631
+	RetrievalITI.FinishTime: 318631
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 6
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_harp_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 21
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 318658
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 322657
+	RecognitionSlide.FinishTime: 322657
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 319753
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1095
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 322666
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 324865
+	RetrievalITI.FinishTime: 324865
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 19
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_lavendar_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 22
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 324888
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 328887
+	RecognitionSlide.FinishTime: 328887
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 326977
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2089
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 328896
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 333295
+	RetrievalITI.FinishTime: 333295
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 60
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_badmintonracquet_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 23
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 333322
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 337321
+	RecognitionSlide.FinishTime: 337321
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 334542
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1220
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 337331
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 346130
+	RetrievalITI.FinishTime: 346130
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 81
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_grapefruit_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 24
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 346150
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 350149
+	RecognitionSlide.FinishTime: 350149
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 348337
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2187
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 350159
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 352358
+	RetrievalITI.FinishTime: 352358
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 9
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_leopard_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 25
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 352380
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 356379
+	RecognitionSlide.FinishTime: 356379
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 353460
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1080
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 356388
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 360787
+	RetrievalITI.FinishTime: 360787
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 12
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_barbells_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 26
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 27
+	RecognitionSlide.OnsetTime: 360815
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 364814
+	RecognitionSlide.FinishTime: 364814
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 361860
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1045
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 364823
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 373622
+	RetrievalITI.FinishTime: 373622
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 36
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_artichoke_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 27
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 373642
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 377641
+	RecognitionSlide.FinishTime: 377641
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 376658
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 3016
+	RecognitionSlide.RESP: 3
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 377651
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 379850
+	RetrievalITI.FinishTime: 379850
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 92
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_redpotato_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 28
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 379872
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 383871
+	RecognitionSlide.FinishTime: 383871
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 382138
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2266
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 383881
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 386080
+	RetrievalITI.FinishTime: 386080
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 80
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_plunger_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 29
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 386102
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 390101
+	RecognitionSlide.FinishTime: 390101
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 387181
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1079
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 390111
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 394510
+	RetrievalITI.FinishTime: 394510
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 49
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_accordion_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 30
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 394537
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 398536
+	RecognitionSlide.FinishTime: 398536
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 395550
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1013
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 398545
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 407344
+	RetrievalITI.FinishTime: 407344
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 40
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_greenbeans_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 31
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 407364
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 411363
+	RecognitionSlide.FinishTime: 411363
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 408798
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1434
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 411373
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 415772
+	RetrievalITI.FinishTime: 415772
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 64
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_fishingrod_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 32
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 415799
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 419798
+	RecognitionSlide.FinishTime: 419798
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 417081
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1282
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 419808
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 428607
+	RetrievalITI.FinishTime: 428607
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 45
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_muffintin_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 33
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 18
+	RecognitionSlide.OnsetTime: 428626
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 432625
+	RecognitionSlide.FinishTime: 432625
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 430487
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1861
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 432635
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 441434
+	RetrievalITI.FinishTime: 441434
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 28
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_electricsander_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 34
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 441454
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 445453
+	RecognitionSlide.FinishTime: 445453
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 442889
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1435
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 445463
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 449862
+	RetrievalITI.FinishTime: 449862
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 82
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_saw_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 35
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 449889
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 453888
+	RecognitionSlide.FinishTime: 453888
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 451150
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1261
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 453897
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 462696
+	RetrievalITI.FinishTime: 462696
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 23
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_whiteplant_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 36
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 462716
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 466715
+	RecognitionSlide.FinishTime: 466715
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 464136
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1420
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 466725
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 468924
+	RetrievalITI.FinishTime: 468924
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 87
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_beerbottleopener_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 37
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 468946
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 472945
+	RecognitionSlide.FinishTime: 472945
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 470950
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2004
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 472955
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 475154
+	RetrievalITI.FinishTime: 475154
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 54
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_drums_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 38
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 475176
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 479175
+	RecognitionSlide.FinishTime: 479175
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 476330
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1154
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 479185
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 481384
+	RetrievalITI.FinishTime: 481384
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 4
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_digitalpiano_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 39
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 481406
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 485405
+	RecognitionSlide.FinishTime: 485405
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 482328
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 922
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 485415
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 494214
+	RetrievalITI.FinishTime: 494214
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 32
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_rake_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 40
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 494234
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 498233
+	RecognitionSlide.FinishTime: 498233
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 495607
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1373
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 498242
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 502641
+	RetrievalITI.FinishTime: 502641
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 11
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_rooster_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 41
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 502668
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 506667
+	RecognitionSlide.FinishTime: 506667
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 504875
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2207
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 506677
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 511076
+	RetrievalITI.FinishTime: 511076
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 46
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_sweetcorn_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 42
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 511103
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 515102
+	RecognitionSlide.FinishTime: 515102
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 511988
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 885
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 515112
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 523911
+	RetrievalITI.FinishTime: 523911
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 58
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_uculele_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 43
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 523931
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 527930
+	RecognitionSlide.FinishTime: 527930
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 525491
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1560
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 527939
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 530138
+	RetrievalITI.FinishTime: 530138
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 62
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_bowling_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 44
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 530161
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 534160
+	RecognitionSlide.FinishTime: 534160
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 531615
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1454
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 534169
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 538568
+	RetrievalITI.FinishTime: 538568
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 76
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_casting_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 45
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 538595
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 542594
+	RecognitionSlide.FinishTime: 542594
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 540192
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1597
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 542604
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 547003
+	RetrievalITI.FinishTime: 547003
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 10
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_viennahorn_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 46
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 547030
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 551029
+	RecognitionSlide.FinishTime: 551029
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 549015
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1985
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 551039
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 553238
+	RetrievalITI.FinishTime: 553238
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 43
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_ladle_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 47
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 553260
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 557259
+	RecognitionSlide.FinishTime: 557259
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 555104
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1844
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 557269
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 561668
+	RetrievalITI.FinishTime: 561668
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 27
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_blackgrapes_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 48
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 561695
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 565694
+	RecognitionSlide.FinishTime: 565694
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 564079
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2384
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 565704
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 567903
+	RetrievalITI.FinishTime: 567903
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 22
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_softballmit_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 49
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 567925
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 571924
+	RecognitionSlide.FinishTime: 571924
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 569278
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1353
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 571934
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 580733
+	RetrievalITI.FinishTime: 580733
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 65
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_orangeflowerx_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 50
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 18
+	RecognitionSlide.OnsetTime: 580752
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 584751
+	RecognitionSlide.FinishTime: 584751
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 582704
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1952
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 584761
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 586960
+	RetrievalITI.FinishTime: 586960
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 69
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_purpleflowerx_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 51
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 586982
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 590981
+	RecognitionSlide.FinishTime: 590981
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 589787
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2805
+	RecognitionSlide.RESP: 3
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 590991
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 599790
+	RetrievalITI.FinishTime: 599790
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 77
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_coconut_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 52
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 599810
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 603809
+	RecognitionSlide.FinishTime: 603809
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 601218
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1408
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 603818
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 606017
+	RetrievalITI.FinishTime: 606017
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 84
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_alfalfasprouts_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 53
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 606040
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 610039
+	RecognitionSlide.FinishTime: 610039
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 607228
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1188
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 610048
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 612247
+	RetrievalITI.FinishTime: 612247
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 95
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_mug_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 54
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 612270
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 616269
+	RecognitionSlide.FinishTime: 616269
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 613696
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1426
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 616279
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 618478
+	RetrievalITI.FinishTime: 618478
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 38
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_cabbage_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 55
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 618500
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 622499
+	RecognitionSlide.FinishTime: 622499
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 621773
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 3273
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 622508
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 631307
+	RetrievalITI.FinishTime: 631307
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 14
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_cricketball_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 56
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 631327
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 635326
+	RecognitionSlide.FinishTime: 635326
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 633256
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1929
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 635336
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 639735
+	RetrievalITI.FinishTime: 639735
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 2
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_bongodrum_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 57
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 639762
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 643761
+	RecognitionSlide.FinishTime: 643761
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 640798
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1036
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 643771
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 645970
+	RetrievalITI.FinishTime: 645970
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 93
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_martiniglass_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 58
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 645992
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 649991
+	RecognitionSlide.FinishTime: 649991
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 647261
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1269
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 650001
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 658800
+	RetrievalITI.FinishTime: 658800
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 96
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_tongs_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 59
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 658820
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 662819
+	RecognitionSlide.FinishTime: 662819
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 660580
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1760
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 662828
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 667227
+	RetrievalITI.FinishTime: 667227
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 86
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_bokchoy_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 60
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 667254
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 671253
+	RecognitionSlide.FinishTime: 671253
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 668879
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1625
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 671263
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 680062
+	RetrievalITI.FinishTime: 680062
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 63
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_amapola_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 61
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 680082
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 684081
+	RecognitionSlide.FinishTime: 684081
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 682035
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1953
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 684090
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 686289
+	RetrievalITI.FinishTime: 686289
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 57
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_koala_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 62
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 686312
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 690311
+	RecognitionSlide.FinishTime: 690311
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 687438
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1126
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 690320
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 694719
+	RetrievalITI.FinishTime: 694719
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 44
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_romatomatoes_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 63
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 694746
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 698745
+	RecognitionSlide.FinishTime: 698745
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 696834
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2088
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 698755
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 700954
+	RetrievalITI.FinishTime: 700954
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 39
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_canopener_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 64
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 700976
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 704975
+	RecognitionSlide.FinishTime: 704975
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 702222
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1246
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 704985
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 707184
+	RetrievalITI.FinishTime: 707184
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 1
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_bassclarinet_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 65
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 707206
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 711205
+	RecognitionSlide.FinishTime: 711205
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 710561
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 3355
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 711215
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 720014
+	RetrievalITI.FinishTime: 720014
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 26
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_broom_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 66
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 720034
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 724033
+	RecognitionSlide.FinishTime: 724033
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 721342
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1308
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 724043
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 732842
+	RetrievalITI.FinishTime: 732842
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 55
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_dolphin_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 67
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 18
+	RecognitionSlide.OnsetTime: 732861
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 736860
+	RecognitionSlide.FinishTime: 736860
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 733942
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1081
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 736870
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 739069
+	RetrievalITI.FinishTime: 739069
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 51
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_arcticfox_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 68
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 739092
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 743091
+	RecognitionSlide.FinishTime: 743091
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 740222
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1130
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 743100
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 747499
+	RetrievalITI.FinishTime: 747499
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 50
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: musical_bassoon_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 69
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 747526
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 751525
+	RecognitionSlide.FinishTime: 751525
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 749548
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 2022
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 751535
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 753734
+	RetrievalITI.FinishTime: 753734
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 42
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_radish_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 70
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 753756
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 757755
+	RecognitionSlide.FinishTime: 757755
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 755288
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1532
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 757765
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 766564
+	RetrievalITI.FinishTime: 766564
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 34
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_wirecutter_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 71
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 766584
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 770583
+	RecognitionSlide.FinishTime: 770583
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 768431
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1847
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 770592
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 779391
+	RetrievalITI.FinishTime: 779391
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 47
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_rollingpin_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 72
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 779411
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 783410
+	RecognitionSlide.FinishTime: 783410
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 780502
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1091
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 783420
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 785619
+	RetrievalITI.FinishTime: 785619
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 83
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_persimmon_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 73
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 785641
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 789640
+	RecognitionSlide.FinishTime: 789640
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 787598
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1957
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 789650
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 794049
+	RetrievalITI.FinishTime: 794049
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 74
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_boxcutter_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 74
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 794076
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 798075
+	RecognitionSlide.FinishTime: 798075
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 795700
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1624
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 798084
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 806883
+	RetrievalITI.FinishTime: 806883
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 61
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_siamesecat_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 75
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 806903
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 810902
+	RecognitionSlide.FinishTime: 810902
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 808154
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1251
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 810912
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 819711
+	RetrievalITI.FinishTime: 819711
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 18
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_karateclothing_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 76
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 819731
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 823730
+	RecognitionSlide.FinishTime: 823730
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 821240
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1509
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 823739
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 828138
+	RetrievalITI.FinishTime: 828138
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 13
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_skunk_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 77
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 27
+	RecognitionSlide.OnsetTime: 828166
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 832165
+	RecognitionSlide.FinishTime: 832165
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 829491
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1325
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 832174
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 840973
+	RetrievalITI.FinishTime: 840973
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 70
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_snowshoes_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 78
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 840993
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 844992
+	RecognitionSlide.FinishTime: 844992
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 842242
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1249
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 845002
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 853801
+	RetrievalITI.FinishTime: 853801
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 78
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_gardenshears_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 79
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 18
+	RecognitionSlide.OnsetTime: 853820
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 857819
+	RecognitionSlide.FinishTime: 857819
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 855170
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1350
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 857829
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 866628
+	RetrievalITI.FinishTime: 866628
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 7
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_elephant_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 80
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 36
+	RecognitionSlide.OnsetTime: 866665
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 870664
+	RecognitionSlide.FinishTime: 870664
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 867608
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 943
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 870673
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 872872
+	RetrievalITI.FinishTime: 872872
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 71
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_whitecallalily_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 81
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 872895
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 876894
+	RecognitionSlide.FinishTime: 876894
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 874777
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1882
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 876903
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 879102
+	RetrievalITI.FinishTime: 879102
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 15
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_blueflowersx_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 82
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 879125
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 883124
+	RecognitionSlide.FinishTime: 883124
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 880874
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1749
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 883133
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 885332
+	RetrievalITI.FinishTime: 885332
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 75
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_banana_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 83
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 885355
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 889354
+	RecognitionSlide.FinishTime: 889354
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 887350
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1995
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 889363
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 891562
+	RetrievalITI.FinishTime: 891562
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 5
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_dalmation_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 84
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 891585
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 895584
+	RecognitionSlide.FinishTime: 895584
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 892674
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1089
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 895593
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 899992
+	RetrievalITI.FinishTime: 899992
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 68
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_rollerblade_new.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 85
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 900019
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 904018
+	RecognitionSlide.FinishTime: 904018
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 901057
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1038
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 904028
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 906227
+	RetrievalITI.FinishTime: 906227
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 79
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: fruit_feijoa_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 86
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 21
+	RecognitionSlide.OnsetTime: 906249
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 910248
+	RecognitionSlide.FinishTime: 910248
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 907594
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1345
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 910258
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 919057
+	RetrievalITI.FinishTime: 919057
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 59
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: animal_pig_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 87
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 919077
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 923076
+	RecognitionSlide.FinishTime: 923076
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 920076
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 999
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 923086
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 927485
+	RetrievalITI.FinishTime: 927485
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 91
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_fryingpan_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 88
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 927512
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 931511
+	RecognitionSlide.FinishTime: 931511
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 929076
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1564
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 931520
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 935919
+	RetrievalITI.FinishTime: 935919
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 48
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_whitestrainer_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 89
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 935946
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 939945
+	RecognitionSlide.FinishTime: 939945
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 937179
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1233
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 939955
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 944354
+	RetrievalITI.FinishTime: 944354
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 16
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_flippers_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 90
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 944381
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 948380
+	RecognitionSlide.FinishTime: 948380
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 946284
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1903
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 948390
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 957189
+	RetrievalITI.FinishTime: 957189
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 41
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: kitchen_electricmixer_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 91
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 957209
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 961208
+	RecognitionSlide.FinishTime: 961208
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 958069
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 860
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 961217
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 963416
+	RetrievalITI.FinishTime: 963416
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 88
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_decorativesquash_new.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 92
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 963439
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 967438
+	RecognitionSlide.FinishTime: 967438
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 964675
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1236
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 967447
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 971846
+	RetrievalITI.FinishTime: 971846
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 90
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: vegie_greencapsicum_new.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 8
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 93
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 26
+	RecognitionSlide.OnsetTime: 971873
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 975872
+	RecognitionSlide.FinishTime: 975872
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 973364
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1491
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 9
+	RetrievalITI.OnsetTime: 975882
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 984681
+	RetrievalITI.FinishTime: 984681
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 20
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: sporting_rugbyshoes_old.bmp
+	RITIduration: 2200
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 94
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 19
+	RecognitionSlide.OnsetTime: 984701
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 988700
+	RecognitionSlide.FinishTime: 988700
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 985826
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1125
+	RecognitionSlide.RESP: 8
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 988709
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 990908
+	RetrievalITI.FinishTime: 990908
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 24
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: tool_boltandnut_old.bmp
+	RITIduration: 4400
+	RecogCorrectAnswer: 4
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 95
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 22
+	RecognitionSlide.OnsetTime: 990931
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 994930
+	RecognitionSlide.FinishTime: 994930
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 992879
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 1948
+	RecognitionSlide.RESP: 4
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 994939
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 999338
+	RetrievalITI.FinishTime: 999338
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	RetrievalList: 21
+	Procedure: RetrievalProc
+	RetrievalFolder: Retrieval\
+	RecogStim: flower_pinkgerbera_old.bmp
+	RITIduration: 8800
+	RecogCorrectAnswer: 9
+	RetrievalList.Cycle: 1
+	RetrievalList.Sample: 96
+	Running: RetrievalList
+	RecognitionSlide.OnsetDelay: 27
+	RecognitionSlide.OnsetTime: 999366
+	RecognitionSlide.DurationError: -1
+	RecognitionSlide.OffsetTime: 1003365
+	RecognitionSlide.FinishTime: 1003365
+	RecognitionSlide.OffsetDelay: -1
+	RecognitionSlide.RTTime: 1002565
+	RecognitionSlide.ACC: 0
+	RecognitionSlide.RT: 3199
+	RecognitionSlide.RESP: 9
+	RecognitionSlide.CRESP: 
+	RetrievalITI.OnsetDelay: 8
+	RetrievalITI.OnsetTime: 1003374
+	RetrievalITI.DurationError: -1
+	RetrievalITI.OffsetTime: 1012173
+	RetrievalITI.FinishTime: 1012173
+	RetrievalITI.OffsetDelay: -1
+	RetrievalITI.RTTime: 0
+	RetrievalITI.RT: 0
+	RetrievalITI.RESP: 
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: Retrieval_Objects
+SessionDate: 00-00-0000
+SessionTime: 16:02:00
+SessionStartDateTimeUtc: 00/00/0000 0:00:00 PM
+RuntimeVersion: 2.0.10.182
+Subject: 1154932
+Session: PREBL00
+DataFile.Basename: Encoding_Objects-1154932-PREBL00
+RandomSeed: -1555429020
+Group: 1
+Display.RefreshRate: 59.872
+Clock.Information: NA
+StudioVersion: 2.0.10.92
+ExperimentVersion: 1.0.0.2
+Synch.OnsetDelay: 27
+Synch.OnsetTime: 11584
+Synch.DurationError: -999999
+Synch.RTTime: 109245
+Synch.ACC: 0
+Synch.RT: 97661
+Synch.RESP: 5
+Synch.CRESP: 
+Instructions.OnsetTime: 109309
+Instructions.Duration: 20000
+Instructions.OffsetTime: 129308
+Instructions.TargetOffsetTime: 129309
+Instructions.TargetOnsetTime: 109250
+Instructions.RTTime: 111245
+Instructions.ACC: 0
+Instructions.RT: 1936
+Instructions.RESP: 5
+Instructions.CRESP: 
+Threesec.OnsetDelay: 27
+Threesec.OnsetTime: 129336
+Threesec.DurationError: -1
+Threesec.OffsetTime: 132335
+Threesec.FinishTime: 132335
+Threesec.OffsetDelay: -1
+Goodbye.OnsetTime: 1012193
+Goodbye.OffsetTime: 1017192
+*** LogFrame End ***

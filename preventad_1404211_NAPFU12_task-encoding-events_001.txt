@@ -1,0 +1,1699 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: Encoding_Objects
+SessionDate: 00-00-0000
+SessionTime: 10:27:00
+SessionStartDateTimeUtc: 00/00/0000 0:00:00 PM
+RuntimeVersion: 2.0.10.182
+Subject: 1404211
+Session: NAPFU12
+DataFile.Basename: Encoding_Objects-1404211-NAPFU12
+RandomSeed: -1832212515
+Group: 1
+Display.RefreshRate: 59.872
+*** Header End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 18
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: sporting_petanque_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 1
+	Running: List1
+	ITIslide.OnsetDelay: 21
+	ITIslide.OnsetTime: 107056
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 111455
+	ITIslide.FinishTime: 111455
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 111466
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 113465
+	EncodingSlide.FinishTime: 113465
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 112850
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1384
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 1
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: musical_doublebass2_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 2
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 113470
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 122269
+	ITIslide.FinishTime: 122269
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 35
+	EncodingSlide.OnsetTime: 122305
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 124304
+	EncodingSlide.FinishTime: 124304
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 123362
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1057
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 5
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: animal_camel_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 3
+	Running: List1
+	ITIslide.OnsetDelay: 21
+	ITIslide.OnsetTime: 124326
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 128725
+	ITIslide.FinishTime: 128725
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 128736
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 130735
+	EncodingSlide.FinishTime: 130735
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 129688
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 952
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 17
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: flower_carnation_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 4
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 130740
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 132939
+	ITIslide.FinishTime: 132939
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 22
+	EncodingSlide.OnsetTime: 132962
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 134961
+	EncodingSlide.FinishTime: 134961
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 134218
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1256
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 16
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: sporting_lifejacket_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 5
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 134966
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 143765
+	ITIslide.FinishTime: 143765
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 143785
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 145784
+	EncodingSlide.FinishTime: 145784
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 145189
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1404
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 21
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: flower_redrose_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 6
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 145789
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 154588
+	ITIslide.FinishTime: 154588
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 154608
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 156607
+	EncodingSlide.FinishTime: 156607
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 155817
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1209
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 41
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: kitchen_coffeepot_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 7
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 156612
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 158811
+	ITIslide.FinishTime: 158811
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 158817
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 160816
+	EncodingSlide.FinishTime: 160816
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 159797
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 980
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 7
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: animal_horse_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 8
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 160821
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 163020
+	ITIslide.FinishTime: 163020
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 163026
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 165025
+	EncodingSlide.FinishTime: 165025
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 163983
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 957
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 47
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: kitchen_teatowel_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 9
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 165030
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 167229
+	ITIslide.FinishTime: 167229
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 167235
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 169234
+	EncodingSlide.FinishTime: 169234
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 168418
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1183
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 23
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: flower_whiteflower4_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 10
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 169239
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 171438
+	ITIslide.FinishTime: 171438
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 21
+	EncodingSlide.OnsetTime: 171460
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 173459
+	EncodingSlide.FinishTime: 173459
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 172861
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1401
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 11
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: animal_rabbit_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 11
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 173465
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 177864
+	ITIslide.FinishTime: 177864
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 177874
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 179873
+	EncodingSlide.FinishTime: 179873
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 179057
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1183
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 38
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: vegie_endive_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 12
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 179878
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 188677
+	ITIslide.FinishTime: 188677
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 188697
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 190696
+	EncodingSlide.FinishTime: 190696
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 189863
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1166
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 29
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: fruit_kumquat_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 13
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 190701
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 192900
+	ITIslide.FinishTime: 192900
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 192906
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 194905
+	EncodingSlide.FinishTime: 194905
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 194350
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1444
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 25
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: flower_yellowsunflower4_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 14
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 194910
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 199309
+	ITIslide.FinishTime: 199309
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 199320
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 201319
+	EncodingSlide.FinishTime: 201319
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 200444
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1124
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 14
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: sporting_kayak_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 15
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 201324
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 205723
+	ITIslide.FinishTime: 205723
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 205733
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 207732
+	EncodingSlide.FinishTime: 207732
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 206772
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1039
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 34
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: tool_wrench_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 16
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 207738
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 216537
+	ITIslide.FinishTime: 216537
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 18
+	EncodingSlide.OnsetTime: 216556
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 218555
+	EncodingSlide.FinishTime: 218555
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 217356
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 800
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 22
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: sporting_waterskis_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 17
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 218561
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 227360
+	ITIslide.FinishTime: 227360
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 18
+	EncodingSlide.OnsetTime: 227379
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 229378
+	EncodingSlide.FinishTime: 229378
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 228524
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1145
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 3
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: animal_bighornsheep_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 18
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 229384
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 233783
+	ITIslide.FinishTime: 233783
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 233793
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 235792
+	EncodingSlide.FinishTime: 235792
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 234772
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 979
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 40
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: vegie_olives_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 19
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 235797
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 240196
+	ITIslide.FinishTime: 240196
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 240207
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 242206
+	EncodingSlide.FinishTime: 242206
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 241233
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1026
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 15
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: flower_blueiris_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 20
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 242211
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 244410
+	ITIslide.FinishTime: 244410
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 244416
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 246415
+	EncodingSlide.FinishTime: 246415
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 245542
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1126
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 33
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: fruit_redgrapes2_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 21
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 246420
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 248619
+	ITIslide.FinishTime: 248619
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 248625
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 250624
+	EncodingSlide.FinishTime: 250624
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 249945
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1320
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 27
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: fruit_cantelopemelon_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 22
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 250629
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 252828
+	ITIslide.FinishTime: 252828
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 252834
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 254833
+	EncodingSlide.FinishTime: 254833
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 253889
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1055
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 30
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: tool_pulley_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 23
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 254838
+	ITIslide.DurationError: 10
+	ITIslide.OffsetTime: 263648
+	ITIslide.FinishTime: 263648
+	ITIslide.OffsetDelay: 10
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 263657
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 265656
+	EncodingSlide.FinishTime: 265656
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 264884
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1227
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 45
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: kitchen_spatula_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 24
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 265661
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 274460
+	ITIslide.FinishTime: 274460
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 274480
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 276479
+	EncodingSlide.FinishTime: 276479
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 275551
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1071
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 9
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: animal_penguin_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 25
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 276484
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 280883
+	ITIslide.FinishTime: 280883
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 280894
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 282893
+	EncodingSlide.FinishTime: 282893
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 282069
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1175
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 8
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: musical_sopranosaxophone_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 26
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 282898
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 291697
+	ITIslide.FinishTime: 291697
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 291717
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 293716
+	EncodingSlide.FinishTime: 293716
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 292843
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1126
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 19
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: flower_purpleiris_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 27
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 293721
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 298120
+	ITIslide.FinishTime: 298120
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 298130
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 300129
+	EncodingSlide.FinishTime: 300129
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 299536
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1406
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 37
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: fruit_yellowapple_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 28
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 300135
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 304534
+	ITIslide.FinishTime: 304534
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 304544
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 306543
+	EncodingSlide.FinishTime: 306543
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 305331
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 787
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 26
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: tool_hedgecutter_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 29
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 306548
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 315347
+	ITIslide.FinishTime: 315347
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 315367
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 317366
+	EncodingSlide.FinishTime: 317366
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 316428
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1061
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 6
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: musical_keyboard_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 30
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 317371
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 319570
+	ITIslide.FinishTime: 319570
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 319576
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 321575
+	EncodingSlide.FinishTime: 321575
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 320545
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 969
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 36
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: vegie_cauliflower_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 31
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 321580
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 323779
+	ITIslide.FinishTime: 323779
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 323785
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 325784
+	EncodingSlide.FinishTime: 325784
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 324690
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 905
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 13
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: animal_zebra_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 32
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 325789
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 334588
+	ITIslide.FinishTime: 334588
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 334608
+	EncodingSlide.DurationError: 8
+	EncodingSlide.OffsetTime: 336616
+	EncodingSlide.FinishTime: 336616
+	EncodingSlide.OffsetDelay: 8
+	EncodingSlide.RTTime: 335532
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 924
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 28
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: tool_panbrush_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 33
+	Running: List1
+	ITIslide.OnsetDelay: 21
+	ITIslide.OnsetTime: 336629
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 341028
+	ITIslide.FinishTime: 341028
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 341039
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 343038
+	EncodingSlide.FinishTime: 343038
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 342348
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1309
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 24
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: tool_gardenhose_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 34
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 343043
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 347442
+	ITIslide.FinishTime: 347442
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 347452
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 349451
+	EncodingSlide.FinishTime: 349451
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 348290
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 838
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 44
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: vegie_silverbeet_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 35
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 349456
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 351655
+	ITIslide.FinishTime: 351655
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 351661
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 353660
+	EncodingSlide.FinishTime: 353660
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 352780
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1119
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 20
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: sporting_skiboot_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 36
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 353665
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 355864
+	ITIslide.FinishTime: 355864
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 355870
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 357869
+	EncodingSlide.FinishTime: 357869
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 356634
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 764
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 46
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: vegie_yellowsquash_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 37
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 357874
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 366673
+	ITIslide.FinishTime: 366673
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 366693
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 368692
+	EncodingSlide.FinishTime: 368692
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 367849
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1156
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 42
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: vegie_redcabbage_old.bmp
+	EslideCorr: 9
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 38
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 368698
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 377497
+	ITIslide.FinishTime: 377497
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 18
+	EncodingSlide.OnsetTime: 377516
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 379515
+	EncodingSlide.FinishTime: 379515
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 378392
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 876
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 39
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: kitchen_bigcookingpot_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 39
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 379521
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 381720
+	ITIslide.FinishTime: 381720
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 5
+	EncodingSlide.OnsetTime: 381726
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 383725
+	EncodingSlide.FinishTime: 383725
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 382675
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 949
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 48
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: kitchen_wineglass_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 40
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 383730
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 388129
+	ITIslide.FinishTime: 388129
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 388139
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 390138
+	EncodingSlide.FinishTime: 390138
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 388892
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 753
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 32
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: tool_scythe_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 41
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 390143
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 394542
+	ITIslide.FinishTime: 394542
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 394553
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 396552
+	EncodingSlide.FinishTime: 396552
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 395590
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1037
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 4
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: musical_headphones_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 42
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 396557
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 405356
+	ITIslide.FinishTime: 405356
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 405376
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 407375
+	EncodingSlide.FinishTime: 407375
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 406425
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1049
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 31
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: fruit_maraschinocherry_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 43
+	Running: List1
+	ITIslide.OnsetDelay: 21
+	ITIslide.OnsetTime: 407397
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 416196
+	ITIslide.FinishTime: 416196
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 18
+	EncodingSlide.OnsetTime: 416215
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 418214
+	EncodingSlide.FinishTime: 418214
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 417150
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 935
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 12
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: sporting_beamgymnastics_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 8800
+	List1.Cycle: 1
+	List1.Sample: 44
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 418220
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 427019
+	ITIslide.FinishTime: 427019
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 19
+	EncodingSlide.OnsetTime: 427039
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 429038
+	EncodingSlide.FinishTime: 429038
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 428580
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1541
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 43
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: kitchen_peppermill_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 45
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 429043
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 433442
+	ITIslide.FinishTime: 433442
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 9
+	EncodingSlide.OnsetTime: 433452
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 435451
+	EncodingSlide.FinishTime: 435451
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 434676
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1224
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 10
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: musical_zamponiawindflute_old.bmp
+	EStimulus2: empty_box.bmp
+	EslideCorr: 4
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 46
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 435457
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 437656
+	ITIslide.FinishTime: 437656
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 4
+	EncodingSlide.OnsetTime: 437661
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 439660
+	EncodingSlide.FinishTime: 439660
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 438685
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1024
+	EncodingSlide.RESP: 4
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 2
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: musical_englishhorn_old.bmp
+	EslideCorr: 9
+	ITIduration: 2200
+	List1.Cycle: 1
+	List1.Sample: 47
+	Running: List1
+	ITIslide.OnsetDelay: 5
+	ITIslide.OnsetTime: 439666
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 441865
+	ITIslide.FinishTime: 441865
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 21
+	EncodingSlide.OnsetTime: 441887
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 443886
+	EncodingSlide.FinishTime: 443886
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 443092
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1205
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 35
+	Procedure: EncodePro
+	EncodingFile: Encoding\
+	Eduration: 2000
+	EStimulus1: empty_box.bmp
+	EStimulus2: fruit_starfruit_old.bmp
+	EslideCorr: 9
+	ITIduration: 4400
+	List1.Cycle: 1
+	List1.Sample: 48
+	Running: List1
+	ITIslide.OnsetDelay: 4
+	ITIslide.OnsetTime: 443891
+	ITIslide.DurationError: -1
+	ITIslide.OffsetTime: 448290
+	ITIslide.FinishTime: 448290
+	ITIslide.OffsetDelay: -1
+	ITIslide.RTTime: 0
+	ITIslide.RT: 0
+	ITIslide.RESP: 
+	EncodingSlide.OnsetDelay: 10
+	EncodingSlide.OnsetTime: 448301
+	EncodingSlide.DurationError: -1
+	EncodingSlide.OffsetTime: 450300
+	EncodingSlide.FinishTime: 450300
+	EncodingSlide.OffsetDelay: -1
+	EncodingSlide.RTTime: 449843
+	EncodingSlide.ACC: 0
+	EncodingSlide.RT: 1542
+	EncodingSlide.RESP: 9
+	EncodingSlide.CRESP: 
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: Encoding_Objects
+SessionDate: 00-00-0000
+SessionTime: 10:27:00
+SessionStartDateTimeUtc: 00/00/0000 0:00:00 PM
+RuntimeVersion: 2.0.10.182
+Subject: 1404211
+Session: NAPFU12
+DataFile.Basename: Encoding_Objects-1404211-NAPFU12
+RandomSeed: -1832212515
+Group: 1
+Display.RefreshRate: 59.872
+Clock.Information: NA
+StudioVersion: 2.0.10.92
+ExperimentVersion: 1.0.0.1
+Sync.OnsetDelay: 31
+Sync.OnsetTime: 9114
+Sync.DurationError: -999999
+Sync.RTTime: 94978
+Sync.ACC: 0
+Sync.RT: 85864
+Sync.RESP: 5
+Sync.CRESP: 
+Instructions.OnsetDelay: 36
+Instructions.OnsetTime: 95014
+Instructions.DurationError: -1
+Instructions.RTTime: 96978
+Instructions.ACC: 0
+Instructions.RT: 1964
+Instructions.RESP: 5
+Instructions.CRESP: 
+TwoSec.OnsetDelay: 21
+TwoSec.OnsetTime: 105035
+TwoSec.DurationError: -1
+TwoSec.OffsetTime: 107034
+TwoSec.FinishTime: 107034
+TwoSec.OffsetDelay: -1
+TwoSec.RTTime: 106978
+TwoSec.RT: 1943
+Goodbye.OnsetTime: 450322
+Goodbye.OffsetTime: 460321
+*** LogFrame End ***
