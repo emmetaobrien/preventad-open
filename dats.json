@@ -37,11 +37,6 @@
             "name": "StoP-AD Center - Douglas Mental Health University Institute"
         }
     ],
-    "storedIn": {
-            "identifier": "CONP open data",
-            "name": "CONP",
-            "access": {}
-        },
     "types": [
         {
             "@type": "DataType",
@@ -95,7 +90,8 @@
                     "@type": "Annotation",
                     "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer’s Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
                 }
-            ]
+            ],
+            "name": "restricted"
         }
     ],
     "distributions": [
@@ -114,7 +110,7 @@
     	    },
             "access" : {
                 "@type": "Access",
-                "landingPage" : ""
+                "landingPage" : "https://openprenventad.loris.ca"
             } 
 		}
     ],
