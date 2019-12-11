@@ -128,13 +128,16 @@
                 "description": "tsv"
             }
         ],
-        "size" : "300",
+        "size" : "186",
         "unit" : {
             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
             "@type": "Annotation",
             "value": "GB",
             "valueIRI": ""
-        }
+        },
+	"access": {
+		"landingPage": "https://douglas.research.mcgill.ca/prevent-alzheimer-program"
+	}
     },
     "primaryPublications": [
         {
@@ -1090,13 +1093,21 @@
     "citationCount" : 13,
     "extraProperties": [
         {
-            "category": "Total number of subjects",
+            "category": "subjects",
             "values": [
                 {
                     "value": "430"
                 }
             ]
         },
+	{
+		"category": "files",
+		"values": [
+			{
+				"value": "21,164"
+			}
+		]
+	},
         {
             "category": "Timepoint description",
             "values": [
@@ -1144,6 +1155,22 @@
                     "value": "172"
                 }
             ]
-        }
+        },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		},
+{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		}
     ]
 }
