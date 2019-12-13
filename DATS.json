@@ -2,7 +2,7 @@
     "$schema": "https://w3id.org/dats/schema/dataset_schema.json",
     "@type": "Dataset",
     "title": "PREVENT-AD",
-    "description": "Longitudinal multimodal study of pre-symptomatic Alzheimer Disease",
+    "description": "Longitudinal multimodal study of pre-symptomatic Alzheimer's Disease",
     "dates": [ 
         {
             "@id": "https://w3id.org/dats/schema/date_info_schema.json",
@@ -128,7 +128,7 @@
                 "description": "tsv"
             }
         ],
-        "size" : "186",
+        "size" : 186,
         "unit" : {
             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
             "@type": "Annotation",
@@ -211,7 +211,7 @@
         {   
             "@id": "https://w3id.org/dats/schema/disease_schema.json",
             "@type": "Disease", 
-            "name": "Alzheimer",
+            "name": "Alzheimer's",
             "diseaseStatus": {
                 "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                 "@type": "Annotation",
@@ -257,7 +257,7 @@
             "@id": "https://w3id.org/dats/schema/dimension_schema.json",
             "@type": "Dimension",
             "name" : "Family history of AD",
-            "description": "Home-made questionnaire to depict the family history of Alzheimer Disease including information on the first degree or other family members affected with Alzheimer Disease and/or other kind of memory problems. The information includes the age of symptoms onset, diagnosis history, age of death, if applicable and cause of death if applicable"
+            "description": "Home-made questionnaire to depict the family history of Alzheimer's Disease including information on the first degree or other family members affected with Alzheimer's Disease and/or other kind of memory problems. The information includes the age of symptoms onset, diagnosis history, age of death, if applicable and cause of death if applicable"
         },
         {
             "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -298,7 +298,7 @@
         {
             "@id": "https://w3id.org/dats/schema/dimension_schema.json",
             "@type": "Dimension",
-            "name" : "Alzheimer Dementia 8 (AD8)",
+            "name" : "Alzheimer's Dementia 8 (AD8)",
             "description": " Questionnaire administered to the study partner to rate the participant on eight daily functioning abilities."
         },
         {
@@ -757,7 +757,7 @@
             "@id": "https://w3id.org/dats/schema/publication_schema.json",
             "@type": "Publication",
             "title": "Bi-directional Association of Cerebrospinal Fluid Immune Markers with Stage of Alzheimer’s Disease Pathogenesis.",
-            "publicationVenue": "Journal of Alzheimers Diseases",
+            "publicationVenue": "Journal of Alzheimer's Disease",
             "dates": [
                 {
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
@@ -813,7 +813,7 @@
             "@id": "https://w3id.org/dats/schema/publication_schema.json",
             "@type": "Publication",
             "title": "Bi-directional Association of Cerebrospinal Fluid Immune Markers with Stage of Alzheimer’s Disease Pathogenesis.",
-            "publicationVenue": "Journal of Alzheimers Disease",
+            "publicationVenue": "Journal of Alzheimer's Disease",
             "dates": [
                 {
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
@@ -868,7 +868,7 @@
         {
             "@id": "https://w3id.org/dats/schema/publication_schema.json",
             "@type": "Publication",
-            "title": "Proximity to Parental Symptoms Onset and Amyloid-beta Burden in sporadic Alzheimer disease",
+            "title": "Proximity to Parental Symptoms Onset and Amyloid-beta Burden in sporadic Alzheimer's disease",
             "publicationVenue": "JAMA Neurology",
             "dates": [
                 {
