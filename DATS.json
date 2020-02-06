@@ -8,37 +8,33 @@
             "@id": "https://w3id.org/dats/schema/date_info_schema.json",
             "@type": "Date",
             "date": "2019-04-01",
-            "type": [
-                {
-            "@id": "https://w3id.org/dats/schema/annotation_schema.json",
-                    "@type": "Annotation",
-                    "value": "Release Date"
-                }
-            ]
+            "type": {
+                "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+                "@type": "Annotation",
+                "value": "Release date"
+            }
         },
         {
             "@id": "https://w3id.org/dats/schema/date_info_schema.json",
             "@type": "Date",
             "date": "2011-11-01",
-            "type": [
+            "type": 
                 {
                    "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                    "@type": "Annotation",
                     "value": "Start Date"
                 }
-            ]
         },
         {
             "@id": "https://w3id.org/dats/schema/date_info_schema.json",
             "@type": "Date",
             "date": "2017-11-27",
-            "type": [
+            "type": 
                 {
                    "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                    "@type": "Annotation",
                     "value": "End Date"
                 }
-            ]
         }
     ],
     "creators": [
@@ -49,7 +45,7 @@
     "storedIn": {
             "name": "CONP"
         },
-    "type": [
+    "types": [
         {
             "@id": "https://w3id.org/dats/schema/data_type_schema.json",
             "@type": "DataType",
@@ -106,10 +102,10 @@
     "privacy": "Open Access; Registered Access",
     "licenses": [
         {
-               "@id": "https://w3id.org/dats/schema/license_schema.json",
+            "@id": "https://w3id.org/dats/schema/license_schema.json",
             "@type": "License",
             "name": "PreventAD proprietary",
-            "dataUsesConditions": [
+            "dataUseConditions": [
                 {
                     "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                     "@type": "Annotation",
@@ -123,29 +119,23 @@
             "@id": "http://json-schema.org/draft-04/schema",
             "@type": "DatasetDistribution",
             "formats": [
-                {
-                    "description": "minc"
-                },
-                {
-                    "description": "Nifti"
-                },
-               {
-                   "description": "tsv"
-               }
-           ],
-           "size" : 186,
-           "unit" : {
-               "@id": "https://w3id.org/dats/schema/annotation_schema.json",
-               "@type": "Annotation",
-               "value": "GB",
-               "valueIRI": ""
-           },
-           "access": {
-               "landingPage": "https://douglas.research.mcgill.ca/prevent-alzheimer-program"
-           },
-           "storedIn": {
-               "identifier": "https://openpreventad.loris.ca"
-           }
+                "minc",
+                "Nifti",
+                "tsv"
+            ],
+            "size" : 186,
+            "unit" : {
+                "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+                "@type": "Annotation",
+                "value": "GB",
+                "valueIRI": ""
+            },
+            "access": {
+                "landingPage": "https://douglas.research.mcgill.ca/prevent-alzheimer-program"
+            },
+            "storedIn": {
+                "name": "https://openpreventad.loris.ca"
+            }
         }
     ],
     "primaryPublications": [
@@ -224,9 +214,7 @@
             "diseaseStatus": {
                 "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                 "@type": "Annotation",
-                "information": {
-                    "value": "pre-symptomatic"
-                }
+                "value": "pre-symptomatic"
             }
         },
         {   
@@ -400,6 +388,7 @@
         {
             "@id": "https://w3id.org/dats/schema/grant_schema.json",
             "@type": "Grant",
+            "name": "Grants",
             "funders": [
                     {
                         "@id": "https://w3id.org/dats/schema/organization_schema.json",
@@ -793,13 +782,13 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2018-04-23",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Release Date"
                         }
-                    ]
+                    
                 }
             ],
             "identifier": {
@@ -819,13 +808,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2018-04-11",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -846,13 +834,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2019-04-05",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -873,13 +860,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2018-04-11",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -900,13 +886,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2018-05-01",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -927,13 +912,13 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2018-05-01",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
+                    
                 }
             ],
             "identifier": {
@@ -954,13 +939,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2018-02-01",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -981,13 +965,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2017-08-21",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -1008,13 +991,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2017-08-01",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -1035,13 +1017,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2017-07-25",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -1062,13 +1043,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2016",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -1089,13 +1069,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2016",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
@@ -1116,13 +1095,12 @@
                     "@id": "https://w3id.org/dats/schema/date_info_schema.json",
                     "@type": "Date",
                     "date": "2015-10-13",
-                    "type": [
+                    "type": 
                         {
                             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
                             "@type": "Annotation",
                             "value": "Publication Date"
                         }
-                    ]
                 }
             ],
             "identifier": {
