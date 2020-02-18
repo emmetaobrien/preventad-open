@@ -41,7 +41,7 @@
     }
   ],
   "storedIn": {
-    "name": "CONP"
+    "name": "https://openpreventad.loris.ca/"
   },
   "types": [
     {
@@ -95,7 +95,7 @@
       }
     }
   ],
-  "version": "1.0",
+  "version": "1.1",
   "availability": "available; available with restriction",
   "privacy": "Open Access; Registered Access",
   "licenses": [
@@ -119,9 +119,9 @@
       "formats": [
         "minc",
         "Nifti",
-        "tsv"
+        "json"
       ],
-      "size": 186,
+      "size": 174,
       "unit": {
         "@id": "https://w3id.org/dats/schema/annotation_schema.json",
         "@type": "Annotation",
