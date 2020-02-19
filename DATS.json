@@ -130,7 +130,11 @@
       },
       "access": {
         "landingPage": "https://douglas.research.mcgill.ca/prevent-alzheimer-program",
-	"annotation": "registered"
+				"authorizations": [
+					{
+						"value": "registered"
+					}
+				]
       },
       "storedIn": {
         "name": "https://openpreventad.loris.ca"
