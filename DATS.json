@@ -60,7 +60,7 @@
       "information": {
         "@id": "https://w3id.org/dats/schema/annotation_schema.json",
         "@type": "Annotation",
-        "value": "Neuropscycological tests",
+        "value": "Neuropsychological assessments",
         "valueIRI": ""
       }
     },
@@ -102,12 +102,12 @@
     {
       "@id": "https://w3id.org/dats/schema/license_schema.json",
       "@type": "License",
-      "name": "PreventAD proprietary",
+      "name": "PREVENT-AD proprietary",
       "dataUseConditions": [
         {
           "@id": "https://w3id.org/dats/schema/annotation_schema.json",
           "@type": "Annotation",
-          "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer’s Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
+          "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer’s Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2020)"
         }
       ]
     }
@@ -117,9 +117,8 @@
       "@id": "http://json-schema.org/draft-04/schema",
       "@type": "DatasetDistribution",
       "formats": [
-        "minc",
-        "Nifti",
-        "json"
+        "MINC",
+        "JSON"
       ],
       "size": 174,
       "unit": {
@@ -129,7 +128,7 @@
         "valueIRI": ""
       },
       "access": {
-        "landingPage": "https://douglas.research.mcgill.ca/prevent-alzheimer-program",
+        "landingPage": "https://prevent-alzheimer.net/",
 				"authorizations": [
 					{
 						"value": "private"
@@ -264,7 +263,7 @@
         "@type": "Annotation",
         "value": "Lifestyle"
       },
-      "description": "Information on the way of living of the research participants expressed by their physical activity level, hobbies, alcool, smoking, sleeping & appetite habits, profession, retirement data, living situation, type of housing."
+      "description": "Information on the research participants' lifestyle expressed by their physical activity level, hobbies, alcohol consumption, smoking, sleeping & appetite habits, profession, retirement data, living situation, type of housing."
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -274,7 +273,7 @@
         "@type": "Annotation",
         "value": "Family history of AD"
       },
-      "description": "Home-made questionnaire to depict the family history of Alzheimer's Disease including information on the first degree or other family members affected with Alzheimer's Disease and/or other kind of memory problems. The information includes the age of symptoms onset, diagnosis history, age of death, if applicable and cause of death if applicable"
+      "description": "Home-made questionnaire to depict the family history of Alzheimer's Disease including information on the first degree or other family members affected with Alzheimer's Disease and/or other kind of memory problems. The information includes the age of symptoms onset, diagnosis history, age of death if applicable and cause of death if applicable"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -282,7 +281,7 @@
       "name": {
         "@id": "https://w3id.org/dats/schema/annotation_schema.json",
         "@type": "Annotation",
-        "value": "Mediacal data"
+        "value": "Medical data"
       },
       "description": "Various home-made questionnaires and samples collection to gather information on the medical conditions, surgical history, pharmacological profile, lab results (urine, blood draw), cardiac condition (electrocardiogram), blood pressure, pulse, CAIDE score (cardiovascular risk score)"
     },
@@ -314,7 +313,7 @@
         "@type": "Annotation",
         "value": "Synthetic Sentence Identification with Ipsilateral Competing Message test"
       },
-      "description": "Central Auditory Processing assessement of the ability to comprehend spoken language intermingled with a background stimulus."
+      "description": "Central Auditory Processing assessment of the ability to comprehend spoken language intermingled with a background stimulus."
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -332,7 +331,7 @@
       "name": {
         "@id": "https://w3id.org/dats/schema/annotation_schema.json",
         "@type": "Annotation",
-        "value": "Repeatable Battery for the Assessement of Neuropsychological Status (RBANS)"
+        "value": "Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)"
       },
       "description": "Measurement of neuropsychological performance for 5 cognitive domains: immediate memory, delayed memory, attention, language and visuospatial abilities. A global cognition score summarizes all these domains. "
     },
@@ -374,7 +373,7 @@
         "@type": "Annotation",
         "value": "Clinical Dementia Rating (CDR)"
       },
-      "description": "Structured-interview used to detect the presence of symptoms of dementia and quantify their severity with a numeric scale ranging from 0 through 3. This composite score is derived from scores obtain in  six cognitive and functionnal areas: memory, orientation, judgment & problem solving, community affairs, home & hobbies, and personal care."
+      "description": "Structured-interview used to detect the presence of symptoms of dementia and quantify their severity with a numeric scale ranging from 0 through 3. This composite score is derived from scores obtain in  six cognitive and functionnal areas: memory, orientation, judgement & problem solving, community affairs, home & hobbies, and personal care."
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -412,7 +411,7 @@
         {
           "@id": "https://w3id.org/dats/schema/organization_schema.json",
           "@type": "Organization",
-          "name": "Douglas Hospital researcher center and foundation"
+          "name": "Douglas Hospital Researcher Centre and Foundation"
         },
         {
           "@id": "https://w3id.org/dats/schema/organization_schema.json",
@@ -448,17 +447,17 @@
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "value": "biomarkers"
+      "value": "Biomarkers"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "value": "multimodal"
+      "value": "Multimodal"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "value": "longitudinal"
+      "value": "Longitudinal"
     }
   ],
   "citations": [
@@ -1120,12 +1119,12 @@
       "category": "Timepoint description",
       "values": [
         {
-          "value": "EL=eligibility, EN=enrolment, BL=Baseline, FU=follow-up (12M, 24M, 36M, 48M)"
+          "value": "EL=eligibility, EN=enrolment, BL=baseline, FU=follow-up (12M, 24M, 36M, 48M)"
         }
       ]
     },
     {
-      "category": "Total number of subjects at BL",
+      "category": "Total number of subjects at baseline",
       "values": [
         {
           "value": "385"
@@ -1184,9 +1183,10 @@
       "category": "contact",
       "values": [
         {
-          "value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+          "value": "Jennifer Tremblay-Mercier, Research Coordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
         }
       ]
     }
   ]
 }
+
