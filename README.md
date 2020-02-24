@@ -6,4 +6,8 @@ The PREVENT-AD (Pre-symptomatic Evaluation of Experimental or Novel Treatments f
 
 The PREVENT-AD research group is now releasing data openly with the intention to contribute to the community’s growing understanding of AD pathogenesis.
 
-### For more information: https://douglas.research.mcgill.ca/prevent-alzheimer-program
+### For more information: 
+
+- LORIS open database instance with the data: https://openpreventad.loris.ca
+- PREVENT-AD study web site: https://prevent-alzheimer.net/
+- PREVENT-AD Twitter account: https://twitter.com/prevent_ad
