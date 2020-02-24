@@ -8,6 +8,6 @@ The PREVENT-AD research group is now releasing data openly with the intention to
 
 ### For more information: 
 
-- LORIS open database instance with the data: https://openpreventad.loris.ca
+- LORIS open database instance with the PREVENT-AD dataset: https://openpreventad.loris.ca
 - PREVENT-AD study web site: https://prevent-alzheimer.net/
 - PREVENT-AD Twitter account: https://twitter.com/prevent_ad
