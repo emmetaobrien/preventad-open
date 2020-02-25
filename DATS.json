@@ -117,9 +117,9 @@
       "@id": "http://json-schema.org/draft-04/schema",
       "@type": "DatasetDistribution",
       "formats": [
-        "minc",
-        "Nifti",
-        "json"
+        "MINC",
+        "NIfTI",
+        "JSON"
       ],
       "size": 174,
       "unit": {
