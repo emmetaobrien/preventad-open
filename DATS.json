@@ -60,7 +60,7 @@
       "information": {
         "@id": "https://w3id.org/dats/schema/annotation_schema.json",
         "@type": "Annotation",
-        "value": "Neuropscycological tests",
+        "value": "Neuropsychological tests",
         "valueIRI": ""
       }
     },
@@ -264,7 +264,7 @@
         "@type": "Annotation",
         "value": "Lifestyle"
       },
-      "description": "Information on the way of living of the research participants expressed by their physical activity level, hobbies, alcool, smoking, sleeping & appetite habits, profession, retirement data, living situation, type of housing."
+      "description": "Information on the way of living of the research participants expressed by their physical activity level, hobbies, alcohol, smoking, sleeping & appetite habits, profession, retirement data, living situation, type of housing."
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -274,7 +274,7 @@
         "@type": "Annotation",
         "value": "Family history of AD"
       },
-      "description": "Home-made questionnaire to depict the family history of Alzheimer's Disease including information on the first degree or other family members affected with Alzheimer's Disease and/or other kind of memory problems. The information includes the age of symptoms onset, diagnosis history, age of death, if applicable and cause of death if applicable"
+      "description": "Home-made questionnaire to depict the family history of Alzheimer's Disease including information on the first degree or other family members affected with Alzheimer's Disease and/or other kind of memory problems. The information includes the age of symptoms' onset, diagnosis history, age of death if applicable and cause of death if applicable"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -284,7 +284,7 @@
         "@type": "Annotation",
         "value": "Mediacal data"
       },
-      "description": "Various home-made questionnaires and samples collection to gather information on the medical conditions, surgical history, pharmacological profile, lab results (urine, blood draw), cardiac condition (electrocardiogram), blood pressure, pulse, CAIDE score (cardiovascular risk score)"
+      "description": "Various home-made questionnaires and samples collected to gather information on the medical conditions, surgical history, pharmacological profile, lab results (urine, blood draw), cardiac condition (electrocardiogram), blood pressure, pulse, CAIDE score (cardiovascular risk score)"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -344,7 +344,7 @@
         "@type": "Annotation",
         "value": "Alzheimer's Dementia 8 (AD8)"
       },
-      "description": " Questionnaire administered to the study partner to rate the participant on eight daily functioning abilities."
+      "description": "Questionnaire administered to the study partner to rate the participant on eight daily functioning abilities."
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
