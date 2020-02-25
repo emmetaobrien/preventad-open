@@ -44,15 +44,15 @@
       ]
     }
   ],
-  "creators": {
-    "name": "StoP-AD Center - Douglas Mental Health University Institute"
-  },
+  "creators": [
+    {
+      "name": "StoP-AD Center - Douglas Mental Health University Institute"
+    }
+  ],
   "storedIn": {
-    "identifier": "CONP open data",
-    "name": "CONP",
-    "access": "https://openpreventad.loris.ca/"
+    "name": "https://openpreventad.loris.ca/"
   },
-  "type": [
+  "types": [
     {
       "@id": "https://w3id.org/dats/schema/data_type_schema.json",
       "@type": "DataType",
@@ -77,20 +77,27 @@
   "version": "1.1",
   "availability": "available",
   "privacy": "Open Access",
-  "licenses": {
-    "@id": "https://w3id.org/dats/schema/license_schema.json",
-    "@type": "Licence",
-    "dataUsesConditions": {
-      "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer's Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
+  "licenses": [
+    {
+      "@id": "https://w3id.org/dats/schema/license_schema.json",
+      "@type": "License",
+      "name": "PREVENT-AD proprietary",
+      "dataUsesConditions": [
+        {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer's Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
+        }
+      ]
     }
-  },
-  "distributions": {
+  ],
+  "distributions": [
+    {
     "@id": "http://json-schema.org/draft-04/schema",
     "@type": "DatasetDistribution",
     "formats": [
-      {
-        "description": "MINC"
-      }
+      "MINC",
+      "JSON"
     ],
     "size" : "174",
     "unit" : {
@@ -98,8 +105,20 @@
       "@type": "Annotation",
       "value": "GB",
       "valueIRI": ""
+    },
+    "access": {
+      "landingPage": "https://prevent-alzheimer.net/",
+      "authorizations": [
+        {
+          "value": "private"
+        }
+      ]
+    },
+    "storedIn": {
+        "name": "https://openpreventad.loris.ca"
+      }
     }
-  },
+  ],
   "primaryPublications": [
     {
 
@@ -107,6 +126,66 @@
       "@type": "Publication",
       "title": "Rationale and Structure for a new Centre for Studies on Prevention of Alzheimer's Disease (StoP-AD)",
       "publicationVenue": "The Journal of Prevention of Alzheimer's Disease - JPAD Volume 3, Number 4, 2016",
+      "authors": [
+        {
+          "@id": "https://w3id.org/dats/schema/person_schema.json",
+          "@type": "Person",
+          "fullName": "John C.S. Breitner",
+          "firstName": "John",
+          "middleInitial": "C.S.",
+          "lastName": "Breitner",
+          "affiliations": [
+            {
+              "@id": "https://w3id.org/dats/schema/organization_schema.json",
+              "@type": "Organization",
+              "name": "PREVENT-AD Research Group"
+            }
+          ]
+        },
+        {
+          "@id": "https://w3id.org/dats/schema/person_schema.json",
+          "@type": "Person",
+          "fullName": "Judes Poirier",
+          "lastName": "Poirier",
+          "affiliations": [
+            {
+              "@id": "https://w3id.org/dats/schema/organization_schema.json",
+              "@type": "Organization",
+              "name": "PREVENT-AD Research Group"
+            }
+          ]
+        },
+        {
+          "@id": "https://w3id.org/dats/schema/person_schema.json",
+          "@type": "Person",
+          "fullName": "Pierre E. Etienne",
+          "firstName": "Pierre",
+          "middleInitial": "E.",
+          "lastName": "Etienne",
+          "affiliations": [
+            {
+              "@id": "https://w3id.org/dats/schema/organization_schema.json",
+              "@type": "Organization",
+              "name": "PREVENT-AD Research Group"
+            }
+          ]
+        },
+        {
+          "@id": "https://w3id.org/dats/schema/person_schema.json",
+          "@type": "Person",
+          "fullName": "Jeannie M Leoutsakos",
+          "firstName": "Jeannie",
+          "middleInitial": "M",
+          "lastName": "Leoutsakos",
+          "affiliations": [
+            {
+              "@id": "https://w3id.org/dats/schema/organization_schema.json",
+              "@type": "Organization",
+              "name": "PREVENT-AD Research Group"
+            }
+          ]
+        }
+      ],
       "dates": [
         {
           "@id": "https://w3id.org/dats/schema/date_info_schema.json",
@@ -127,15 +206,14 @@
         "@type": "Identifier",
         "identifier": "http://dx.doi.org/10.14283/jpad.2016.121",
         "identifierSource": "International DOI Foundation"
-      },
-      "authorsList": "J.C.S. Breitner, J. Poirier, P.E. Etienne, J.M. Leoutsakos for the PREVENT-AD Research Group "
+      }
     }
   ],
   "isAbout": [
     {
       "@id": "https://w3id.org/dats/schema/disease_schema.json",
-      "@type": "disease",
-      "name": "Alzheimer Disease",
+      "@type": "Disease",
+      "name": "Alzheimer's",
       "diseaseStatus": {
         "@id": "https://w3id.org/dats/schema/annotation_schema.json",
         "@type": "Annotation",
@@ -163,49 +241,78 @@
 
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Age at MRI",
+      "name" : {
+        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+        "@type": "Annotation",
+        "value": "Age at MRI"
+      },
       "description": "Age in months at the time of the MRI session"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Gender",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Gender"
+      },
       "description": "Sex of the participant (male or female)"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Test Language",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Test Language"
+      },
       "description": "Language in which the participant choose to perform the tests in the research project"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Handedness Interpretation",
+      "name" : {
+        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+        "@type": "Annotation",
+        "value": "Handedness Interpretation"
+      },
       "description": "The Edinburgh Handedness Inventory test result interpretation establishing hand dominance (right-handed, left-handed or ambidextrous)"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Handedness Score",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Handedness Score"
+      },
       "description": "The Edinburgh Handedness Inventory test score results"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Structural MRI",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Structural MRI"
+      },
       "description": "T1W, FLAIR, T2*, multi-echo T2*, T2W, MP2RAGE, DWI 65 directions"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
       "@type": "Dimension",
-      "name" : "Functional MRI",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Functional MRI"
+      },
       "description": "single-echo pCASL, resting BOLD, encoding/retrieval tasks BOLD"
     }
   ],
   "acknowledges" : {
     "@id": "https://w3id.org/dats/schema/grant_schema.json",
     "@type": "Grant",
+    "names": "Grants",
     "funders": [
       {
         "@id": "https://w3id.org/dats/schema/organization_schema.json",
@@ -245,52 +352,43 @@
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "information": {
-        "value": "Prevention",
-        "valueIRI": ""
-      }
+      "value": "Prevention"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "information": {
-        "value": "Alzheimer disease",
-        "valueIRI": ""
-      }
+      "value": "Alzheimer disease"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "information": {
-        "value": "structural MRI",
-        "valueIRI": ""
-      }
+      "value": "Structural MRI"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "information": {
-        "value": "functional MRI",
-        "valueIRI": ""
-      }
+      "value": "Functional MRI"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "information": {
-        "value": "longitudinal",
-        "valueIRI": ""
-      }
+      "value": "Longitudinal"
     }
   ],
-
-
   "extraProperties": [
     {
-      "category": "Total number of subjects",
+      "category": "subjects",
       "values": [
         {
           "value": "232"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "19,857"
         }
       ]
     },
@@ -299,6 +397,30 @@
       "values": [
         {
           "value": "EL=eligibility, EN=enrolment, BL=baseline, FU=follow-up (12M, 24M, 36M, 48M)"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "CONP"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Jennifer Tremblay-Mercier, Research Coordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
         }
       ]
     }
