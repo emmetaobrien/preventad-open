@@ -71,12 +71,16 @@
       "@id": "https://w3id.org/dats/schema/license_schema.json",
       "@type": "License",
       "name": "PREVENT-AD proprietary",
-      "dataUsesConditions": [
-        {
-          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
-          "@type": "Annotation",
-          "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer's Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
-        }
+      "extraProperties": [
+	{
+          "dataUsesConditions": [
+            {
+              "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+              "@type": "Annotation",
+              "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer's Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
+            }
+	  ]
+	}
       ]
     }
   ],
@@ -107,7 +111,8 @@
       }
     }
   ],
-  "primaryPublications":{
+  "primaryPublications": [
+    {
     "@id": "https://w3id.org/dats/schema/publication_schema.json",
     "@type": "Publication",
     "title": "Rationale and Structure for a new Centre for Studies on Prevention of Alzheimer's Disease (StoP-AD)",
@@ -192,19 +197,24 @@
       "identifier": "http://dx.doi.org/10.14283/jpad.2016.121",
       "identifierSource": "International DOI Foundation"
     }
-  },
+  }
+],
   "isAbout": [
     {
       "@id": "https://w3id.org/dats/schema/disease_schema.json",
       "@type": "Disease",
       "name": "Alzheimer's",
-      "diseaseStatus": {
-        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
-        "@type": "Annotation",
-        "information": {
-          "value": "presymptomatic phase of Alzheimer's Disease"
-        }
-      }
+      "extraProperties": [
+	{
+	      "diseaseStatus": {
+	        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+	        "@type": "Annotation",
+	        "information": {
+	          "value": "presymptomatic phase of Alzheimer's Disease"
+	        }
+	      }
+	}
+      ]
     },
     {
       "@id": "https://w3id.org/dats/schema/biological_entity_schema.json",
@@ -298,7 +308,7 @@
     {
       "@id": "https://w3id.org/dats/schema/grant_schema.json",
       "@type": "Grant",
-      "names": "Grants",
+      "name": "Grants",
       "funders": [
         {
           "@id": "https://w3id.org/dats/schema/organization_schema.json",
