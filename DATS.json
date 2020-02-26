@@ -2,7 +2,7 @@
   "@id": "https://w3id.org/dats/schema/dataset_schema.json",
   "@type": "Dataset",
   "title": "PREVENT-AD open data",
-  "description": "Longitudinal study of pre-symptomatic Alzheimer Disease",
+  "description": "Longitudinal study of pre-symptomatic Alzheimer's Disease",
   "dates": [
     {
       "@id": "https://w3id.org/dats/schema/date_info_schema.json",
@@ -357,7 +357,7 @@
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
       "@type": "Annotation",
-      "value": "Alzheimer disease"
+      "value": "Alzheimer's disease"
     },
     {
       "@id": "https://w3id.org/dats/schema/annotation_schema.json",
