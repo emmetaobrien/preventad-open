@@ -73,7 +73,8 @@
       "name": "PREVENT-AD proprietary",
       "extraProperties": [
 	{
-          "dataUsesConditions": [
+          "category": "dataUsesConditions",
+           "values": [
             {
               "@id": "https://w3id.org/dats/schema/annotation_schema.json",
               "@type": "Annotation",
@@ -182,13 +183,12 @@
         "@id": "https://w3id.org/dats/schema/date_info_schema.json",
         "@type": "Date",
         "date": "2016-09-01",
-        "type": [
+        "type": 
           {
             "@id": "https://w3id.org/dats/schema/annotation_schema.json",
             "@type": "Annotation",
             "value": "Publication Date"
           }
-        ]
       }
     ],
     "identifier": {
@@ -206,13 +206,16 @@
       "name": "Alzheimer's",
       "extraProperties": [
 	{
-	      "diseaseStatus": {
-	        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
-	        "@type": "Annotation",
-	        "information": {
-	          "value": "presymptomatic phase of Alzheimer's Disease"
-	        }
-	      }
+	     "category": "diseaseStatus",
+	     "values": [
+		  {
+	  	        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+		        "@type": "Annotation",
+		        "information": {
+		          "value": "presymptomatic phase of Alzheimer's Disease"
+		        }
+		  }
+		]
 	}
       ]
     },
