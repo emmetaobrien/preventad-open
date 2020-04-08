@@ -6,6 +6,32 @@ The PREVENT-AD (Pre-symptomatic Evaluation of Experimental or Novel Treatments f
 
 The PREVENT-AD research group is now releasing data openly with the intention to contribute to the community’s growing understanding of AD pathogenesis.
 
+More detailed information about the study design can be found in the LORIS instance of Open PREVENT-AD (https://openpreventad.loris.ca).
+
+### Data organization
+
+Data are organized by `candidate_id/visit_label`:
+
+```
+preventad-open
+|__DATS.json
+|__candidate_id
+   |__candidate.json
+   |__visit_label
+      |__visit.json
+      |__handedness.json
+      |__images
+         |__image_1.mnc
+         |__image_2.mnc
+         |__image_3.mnc
+```
+
+- `DATS.json` is a JSON file that describes the content of the dataset
+- `candidate.json` contains demographic information regarding the candidate in question
+- `visit.json` contains visit level information
+- `handedness.json` when present, contains results of the Handedness Edinburgh Inventory
+- images are provided in MINC format
+
 ### For more information: 
 
 - LORIS open database instance with the PREVENT-AD dataset: https://openpreventad.loris.ca
