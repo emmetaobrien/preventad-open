@@ -10,6 +10,8 @@ More detailed information about the study design can be found in the LORIS insta
 
 ### Data organization
 
+For the BIDS dataset, please visit https://portal.conp.ca/dataset?id=projects/preventad-open-bids
+
 Data are organized by `candidate_id/visit_label`:
 
 ```
@@ -35,6 +37,7 @@ preventad-open
 ### For more information: 
 
 - LORIS open database instance with the PREVENT-AD dataset: https://openpreventad.loris.ca
+- PREVENT-AD BIDS dataset: https://portal.conp.ca/dataset?id=projects/preventad-open-bids
 - PREVENT-AD study web site: https://prevent-alzheimer.net/
 - PREVENT-AD Twitter account: https://twitter.com/prevent_ad
-- Dataset DOI: https://github.com/conpdatasets/preventad-open-bids.git
+- Dataset DOI: https://doi.org/10.5281/zenodo.3689943
