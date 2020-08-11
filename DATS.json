@@ -13,6 +13,12 @@
       }
     },
     {
+      "date": "2020-08-06",
+        "type": {
+        "value": "Last Update Date"
+      }
+    },
+    {
       "date": "2011-11-01",
       "type": {
         "value": "Start Date"
@@ -45,7 +51,7 @@
       }
     }
   ],
-  "version": "1.1",
+  "version": "2.0",
   "availability": "available",
   "privacy": "Open Access",
   "licenses": [
@@ -69,7 +75,7 @@
       "MINC",
       "JSON"
     ],
-    "size" : 174,
+    "size" : 223,
     "unit" : {
       "value": "GB"
     },
@@ -267,7 +273,7 @@
       "category": "subjects",
       "values": [
         {
-          "value": "232"
+          "value": "308"
         }
       ]
     },
@@ -275,7 +281,7 @@
       "category": "files",
       "values": [
         {
-          "value": "19,857"
+          "value": "28,748"
         }
       ]
     },
