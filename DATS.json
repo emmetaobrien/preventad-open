@@ -47,13 +47,13 @@
     },
     {
       "information": {
-        "value": "Basic Demographics"
+        "value": "basic demographics"
       }
     }
   ],
   "version": "2.0",
   "availability": "available",
-  "privacy": "Open Access",
+  "privacy": "open",
   "licenses": [
     {
       "name": "https://openpreventad.loris.ca/images/Open_PREVENT-AD_Terms_of_Use.png",
@@ -157,7 +157,7 @@
 ],
   "isAbout": [
     {
-      "name": "Alzheimer's",
+      "name": "Alzheimer's disease",
       "extraProperties": [
 	{
 	     "category": "diseaseStatus",
@@ -170,7 +170,14 @@
       ]
     },
     {
-      "name": "Older adults human"
+        "identifier": {
+            "identifier": "9606",
+            "identifierSource":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9606"
+        },
+        "name":"Homo sapiens"
+    },
+    {
+      "name": "older adult"
     }
   ],
   "spatialCoverage": [
@@ -183,43 +190,43 @@
   "dimensions": [
     {
       "name" : {
-        "value": "Age at MRI"
+        "value": "age at MRI"
       },
       "description": "Age in months at the time of the MRI session"
     },
     {
       "name" : {
-          "value": "Gender"
+          "value": "gender"
       },
       "description": "Sex of the participant (male or female)"
     },
     {
       "name" : {
-          "value": "Test Language"
+          "value": "test Language"
       },
       "description": "Language in which the participant choose to perform the tests in the research project"
     },
     {
       "name" : {
-        "value": "Handedness Interpretation"
+        "value": "handedness interpretation"
       },
       "description": "The Edinburgh Handedness Inventory test result interpretation establishing hand dominance (right-handed, left-handed or ambidextrous)"
     },
     {
       "name" : {
-          "value": "Handedness Score"
+          "value": "handedness score"
       },
       "description": "The Edinburgh Handedness Inventory test score results"
     },
     {
       "name" : {
-          "value": "Structural MRI"
+          "value": "structural MRI"
       },
       "description": "T1W, FLAIR, T2*, multi-echo T2*, T2W, MP2RAGE, DWI 65 directions"
     },
     {
       "name" : {
-          "value": "Functional MRI"
+          "value": "functional MRI"
       },
       "description": "single-echo pCASL, resting BOLD, encoding/retrieval tasks BOLD"
     }
@@ -253,19 +260,16 @@
   ],
   "keywords": [
     {
-      "value": "Prevention"
+      "value": "prevention"
     },
     {
-      "value": "Alzheimer's disease"
+      "value": "structural MRI"
     },
     {
-      "value": "Structural MRI"
+      "value": "functional MRI"
     },
     {
-      "value": "Functional MRI"
-    },
-    {
-      "value": "Longitudinal"
+      "value": "longitudinal"
     }
   ],
   "extraProperties": [
@@ -281,7 +285,7 @@
       "category": "files",
       "values": [
         {
-          "value": "28,748"
+          "value": "28748"
         }
       ]
     },
